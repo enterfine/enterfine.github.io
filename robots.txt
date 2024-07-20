@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://enterfine.github.io/sitemap
+Sitemap: https://enterfine.github.io/app/sitemap
+Sitemap: https://enterfine.github.io/assets/sitemap
+Sitemap: https://enterfine.github.io/css/sitemap
+Sitemap: https://enterfine.github.io/includes/sitemap
+Sitemap: https://enterfine.github.io/item/sitemap
+Sitemap: https://enterfine.github.io/src/sitemap
